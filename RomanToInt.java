@@ -17,7 +17,6 @@ class RomanToInt {
                     assign[i] = Integer.parseInt(map[j][1]);
                     break;
                 }
-
             }
         }
         if(s.length() == 1)
